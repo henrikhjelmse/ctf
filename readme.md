@@ -46,6 +46,8 @@ Tips:
 
 Exempel: Det finns färdiga webbshells på GitHub som du kan ladda upp för att få en webbaserad terminal på servern. Sök t.ex. efter "php webshell" på GitHub.
 
+**Tips:** En bra fil att ladda upp är denna webbshell: [shell.php från henrikhjelmse/ctf](https://github.com/henrikhjelmse/ctf/blob/main/shell.php)
+
 Detta ger dig ett kommandofält via URL:en, t.ex. `shell.php?cmd=whoami`.
 
 ## 2. Find-kommandot för att hitta flag.txt
@@ -67,9 +69,6 @@ Tips:
 - Om du har begränsade rättigheter, försök söka i kataloger du har tillgång till.
 
 ## 3. vanliga kommandon i linux, som man brukar använda i ctf
-
-
-## 3. Andra vanliga kommandon och tekniker
 
 När du utforskar en server eller en fil i en CTF kan följande kommandon och tekniker vara användbara:
 
